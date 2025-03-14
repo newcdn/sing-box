@@ -121,7 +121,7 @@ Usage: sing-box [options]... [args]...
 
 最好用的 sing-box 脚本
 
-Github 地址：https://github.com/233boy/sing-box
+Github 地址：https://github.com/newcdn/sing-box
 特点
 
     快速安装
@@ -201,7 +201,7 @@ Just My Socks 是搬瓦工提供的 Shadowsocks & V2Ray 服务，不怕跑路，
 
 执行如下命令：
 
-bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+bash <(wget -qO- -o- https://github.com/newcdn/sing-box/raw/main/install.sh)
 
 如果需要指定 sing-box 版本，请在安装命令后面加 -v ver 参数
 
@@ -434,7 +434,7 @@ add 是一个用来添加配置的参数
 
     sb add ss auto auto 2022-blake3-aes-128-gcm -> 加密方式使用 2022-blake3-aes-128-gcm
 
-    sb add ss 233 233boy aes-128-gcm -> 端口使用 233，密码使用 233boy.com，加密方式使用 aes-128-gcm
+    sb add ss 233 newcdn aes-128-gcm -> 端口使用 233，密码使用 233，加密方式使用 aes-128-gcm
 
 –
 
